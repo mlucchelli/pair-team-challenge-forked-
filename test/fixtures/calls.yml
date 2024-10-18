@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  external_call_id: MyString
+  status: MyString
+  duration: 1
+  transcript: MyString
+  p: MyString
+
+two:
+  external_call_id: MyString
+  status: MyString
+  duration: 1
+  transcript: MyString
+  p: MyString
